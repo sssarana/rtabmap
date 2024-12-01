@@ -3,7 +3,7 @@ name: CMake-ROS
 on:
   push:
     branches: 
-      - master
+      - humble-devel
   pull_request:
     branches: 
       - '**'
